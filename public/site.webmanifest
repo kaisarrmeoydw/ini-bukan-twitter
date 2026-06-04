@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "Not Twitter",
+  "short_name": "Not Twitter",
+  "description": "A Bluesky-powered Twitter-style client.",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#1d9bf0",
+  "background_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
