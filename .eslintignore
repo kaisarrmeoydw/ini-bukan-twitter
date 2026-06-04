@@ -1,0 +1,12 @@
+# next config
+next.config.js
+
+# compatibility shims for bundled dependencies
+src/lib/atproto/rich-text-detection-compat.js
+
+# tailwind config
+tailwind.config.js
+postcss.config.js
+
+# jest config
+jest.config.js
